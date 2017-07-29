@@ -11,7 +11,7 @@
 
     <groupId>com.github.pkoli</groupId>
     <artifactId>xls2pojo-maven-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -37,7 +37,7 @@
 
     <scm>
         <connection>scm:git:git://github.com/pkoli/xls2pojo-maven-plugin.git</connection>
-        <developerConnection>scm:git:ssh://github.com:pkoli/xls2pojo-maven-plugin.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:pkoli/xls2pojo-maven-plugin.git</developerConnection>
         <url>http://github.com/pkoli/xls2pojo-maven-plugin/tree/master</url>
     </scm>
 
