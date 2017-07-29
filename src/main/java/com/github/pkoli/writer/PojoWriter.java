@@ -1,10 +1,8 @@
-package com.pkoli.writer;
+package com.github.pkoli.writer;
 
-import com.pkoli.mojo.XlsToPojoMojo;
-import com.pkoli.util.XlsToPojoNamingUtil;
+import com.github.pkoli.util.XlsToPojoNamingUtil;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
-import org.apache.maven.plugin.logging.Log;
 
 import java.io.File;
 import java.io.FileWriter;

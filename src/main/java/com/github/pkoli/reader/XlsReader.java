@@ -1,10 +1,8 @@
-package com.pkoli.reader;
+package com.github.pkoli.reader;
 
-import com.pkoli.util.FileLister;
-import com.pkoli.writer.PojoWriter;
+import com.github.pkoli.writer.PojoWriter;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
-import org.apache.maven.plugin.logging.Log;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 

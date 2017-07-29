@@ -1,4 +1,4 @@
-package com.pkoli.util;
+package com.github.pkoli.util;
 
 import com.google.common.base.CaseFormat;
 

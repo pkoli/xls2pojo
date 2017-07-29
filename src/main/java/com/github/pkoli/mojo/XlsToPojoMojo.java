@@ -1,7 +1,7 @@
-package com.pkoli.mojo;
+package com.github.pkoli.mojo;
 
-import com.pkoli.reader.XlsReader;
-import com.pkoli.util.FileLister;
+import com.github.pkoli.reader.XlsReader;
+import com.github.pkoli.util.FileLister;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;

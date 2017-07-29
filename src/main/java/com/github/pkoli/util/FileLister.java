@@ -1,4 +1,4 @@
-package com.pkoli.util;
+package com.github.pkoli.util;
 
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.logging.Log;
